@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='50 32 640 721' xmlns:xlink='http://www.w3.org/1999/xlink' width='640.0px' font-size='13' font-family='Arial, LiberationSans' version='1.1' height='721.0px'>
+  <defs>
+<style type='text/css'><![CDATA[svg text {text-rendering: geometricPrecision;}]]></style>    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='gradient-ffffff-eeeeee' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+  </defs>
+  <desc>UsecaseDiagram</desc>
+  <g transform='translate(80.0,110.0)' id='_JZr-UGN6EDadV45R_-upHg'>
+    <circle r='6.5' cx='20.0' cy='8.5' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='15.0' x1='20.0' y2='45.5' x2='20.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='26.0' x1='6.0' y2='26.0' x2='34.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='9.2' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='30.799999999999997' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <text text-anchor='middle' x='20.0' y='78.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>Guest</text>
+  </g>
+  <g transform='translate(620.0,213.0)' id='_MwWYIWN6EDadV45R_-upHg'>
+    <circle r='6.5' cx='20.0' cy='8.5' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='15.0' x1='20.0' y2='45.5' x2='20.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='26.0' x1='6.0' y2='26.0' x2='34.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='9.2' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='30.799999999999997' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <text text-anchor='middle' x='20.0' y='78.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>Receptionist</text>
+  </g>
+  <g transform='translate(620.0,591.0)' id='_RhhBEWN6EDadV45R_-upHg'>
+    <circle r='6.5' cx='20.0' cy='8.5' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='15.0' x1='20.0' y2='45.5' x2='20.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='26.0' x1='6.0' y2='26.0' x2='34.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='9.2' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='30.799999999999997' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <text text-anchor='middle' x='20.0' y='78.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>Manager</text>
+  </g>
+  <g transform='translate(90.0,454.0)' id='_XGwyUWN6EDadV45R_-upHg'>
+    <circle r='6.5' cx='20.0' cy='8.5' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='15.0' x1='20.0' y2='45.5' x2='20.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='26.0' x1='6.0' y2='26.0' x2='34.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='9.2' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='30.799999999999997' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <text text-anchor='middle' x='20.0' y='78.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>Administrator</text>
+  </g>
+  <g transform='translate(270.0,466.0)' id='_YqbkgWN6EDadV45R_-upHg'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#gradient-ffffff-eeeeee)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Add/delete</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Hotels</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(270.0,567.0)' id='_cgAu8WN6EDadV45R_-upHg'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#gradient-ffffff-eeeeee)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Add/delete</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Room Types</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(270.0,668.0)' id='_d2gn02N6EDadV45R_-upHg'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#gradient-ffffff-eeeeee)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Add/delete</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Rooms</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(270.0,62.0)' id='_iJTSsGN6EDadV45R_-upHg'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#gradient-ffffff-eeeeee)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Make Booking</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(270.0,163.0)' id='_i3TBJGN6EDadV45R_-upHg'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#gradient-ffffff-eeeeee)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Cancel Booking</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(270.0,264.0)' id='_nN-thWN6EDadV45R_-upHg'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#gradient-ffffff-eeeeee)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Guest Check-in</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(270.0,365.0)' id='_n8KCIWN6EDadV45R_-upHg'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#gradient-ffffff-eeeeee)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Guest</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Check-out</text>
+      </g>
+    </g>
+  </g>
+  <g id='_VmVhYWN6EDadV45R_-upHg'>
+    <line y1='591.0' x1='640.0' y2='442.0' x2='640.0' id='_VmWvgmN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_VmVhYWN6EDadV45R_-upHg'>
+    <line y1='442.0' x1='640.0' y2='442.0' x2='640.0' id='_VmWvhWN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_VmVhYWN6EDadV45R_-upHg'>
+    <line y1='442.0' x1='640.0' y2='293.0' x2='640.0' id='_VmWvhmN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(640.0,293.0) rotate(-0.0)' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)' points='-6.0,10.0 0.0,0.0 6.0,10.0'/>
+  </g>
+  <g id='_gRVrgWN6EDadV45R_-upHg'>
+    <line y1='494.0' x1='270.0' y2='494.0' x2='130.0' id='_gRcZMmN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_guNNsmN6EDadV45R_-upHg'>
+    <line y1='628.0' x1='620.0' y2='600.0' x2='370.0' id='_guW-smN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_hMynJGN6EDadV45R_-upHg'>
+    <line y1='635.0' x1='620.0' y2='685.0' x2='370.0' id='_hM574mN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_kzAf5WN6EDadV45R_-upHg'>
+    <line y1='144.0' x1='120.0' y2='103.0' x2='270.0' id='_kzJp0mN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_lMv1l2N6EDadV45R_-upHg'>
+    <line y1='153.0' x1='120.0' y2='181.0' x2='270.0' id='_lM1VI2N6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_l5EwF2N6EDadV45R_-upHg'>
+    <line y1='242.0' x1='620.0' y2='115.0' x2='370.0' id='_l5NS8WN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_mU3UMWN6EDadV45R_-upHg'>
+    <line y1='249.0' x1='620.0' y2='200.0' x2='370.0' id='_mU8zwmN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_qdAOQWN6EDadV45R_-upHg'>
+    <line y1='255.0' x1='620.0' y2='285.0' x2='370.0' id='_qdKmUmN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_q3vCcGN6EDadV45R_-upHg'>
+    <line y1='261.0' x1='620.0' y2='371.0' x2='370.0' id='_q34zcmN6EDadV45R_-upHg' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+</svg>

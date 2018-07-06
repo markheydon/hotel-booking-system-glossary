@@ -1,0 +1,53 @@
+<html>
+    <header><title>Make Booking</title></header>
+    <body>
+        <h1>Make Booking</h1>
+        
+        
+        
+        <h2>Description</h2>
+            <p>A room in a hotel is booked by a guest.</p>
+        
+        <ol>
+        	<li>Guest or Receptionist starts the booking process.</li>
+        	<li>The user selects the hotel, dates of the booking and room types required.</li>
+        	<li>The system shows availability for the dates and room type(s) along with the price.
+        	<ol>
+        		<li><em>No availability in this hotel</em>: The system suggests other hotels in the same business with availability.</li>
+        		<li><em>No availability in any hotel</em>: The system informs the user and terminates the use case.</li>
+        	</ol>
+        	</li>
+        	<li>The user accepts the booking, assuming the price and availability&nbsp;is acceptable.
+        	<ol>
+        		<li><em>Guest doesn&#39;t like price or what is being offered</em>: Use case terminates.</li>
+        	</ol>
+        	</li>
+        	<li>The system requests the relevant number of guest name and addresses.</li>
+        	<li>The user completes the booking by entering&nbsp;the name and address information of all the guests.
+        	<ol>
+        		<li><em>Guest is&nbsp;already known to the business</em>: Continue to next step.</li>
+        	</ol>
+        	</li>
+        	<li>The system creates the booking and gives it a booking number.</li>
+        	<li>The system allocates the rooms as booked.</li>
+        	<li>The user is given the booking number for reference.</li>
+        </ol>
+        
+        <p>&nbsp;</p>
+        
+        
+        <h2>Attributes</h2>
+        No additional attributes
+        
+        <h2>Associations</h2>
+        <dl>
+            <dt> guest : Guest</dt>
+                <dd>  <i>No desription</i></dd>
+                    <dt> receptionist : Receptionist</dt>
+                <dd>  <i>No desription</i></dd>
+                
+        </dl>
+        
+        
+        
+</html>
