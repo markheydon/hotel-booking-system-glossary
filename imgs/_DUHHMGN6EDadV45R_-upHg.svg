@@ -42,10 +42,9 @@
   </g>
   <g transform='translate(270.0,466.0)' id='_YqbkgWN6EDadV45R_-upHg'>
     <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#gradient-ffffff-eeeeee)' stroke='rgb(187, 187, 187)' look='allInOne'/>
-    <g transform='translate(0.0,14.5)'>
+    <g transform='translate(0.0,21.0)'>
       <g transform='translate(0.0,0.0)'>
-        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Add/delete</text>
-        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Hotels</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Manage Hotels</text>
       </g>
     </g>
   </g>
@@ -53,17 +52,16 @@
     <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#gradient-ffffff-eeeeee)' stroke='rgb(187, 187, 187)' look='allInOne'/>
     <g transform='translate(0.0,14.5)'>
       <g transform='translate(0.0,0.0)'>
-        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Add/delete</text>
-        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Room Types</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Manage Room</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Types</text>
       </g>
     </g>
   </g>
   <g transform='translate(270.0,668.0)' id='_d2gn02N6EDadV45R_-upHg'>
     <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#gradient-ffffff-eeeeee)' stroke='rgb(187, 187, 187)' look='allInOne'/>
-    <g transform='translate(0.0,14.5)'>
+    <g transform='translate(0.0,21.0)'>
       <g transform='translate(0.0,0.0)'>
-        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Add/delete</text>
-        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Rooms</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Manage Rooms</text>
       </g>
     </g>
   </g>
